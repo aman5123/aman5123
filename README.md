@@ -57,35 +57,6 @@
 
 </div>
 
----
-
-## 🚀 Featured Projects
-
-### 📝 Blog CMS
-
-A modern CMS Blog Platform featuring authentication, role-based access, comments moderation, dashboard analytics, and content management.
-
-### 🩺 Symptom Checker
-
-An intelligent healthcare application that helps users analyze symptoms and receive preliminary health insights.
-
-### 🤖 AI Chatbot
-
-A desktop AI-powered chatbot built using Python and Google Gemini AI with speech recognition and text-to-speech support.
-
-### 🌐 Portfolio Website
-
-A personal portfolio showcasing projects, skills, certifications, and achievements.
-
----
-
-## 🎯 Current Goals
-
-* 🚀 Build production-ready Full Stack Applications
-* 🤖 Learn Agentic AI & AI Engineering
-* ☁️ Master Cloud Computing
-* 📚 Strengthen DSA & System Design
-* 💼 Secure a Software Development Internship
 
 ---
 
