@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Aman Verma
+# 👋 Hi, I'm Aman 
 
 ### 🎓 B.Tech CSE (AI & DS) Student | 💻 Full Stack Developer | 🤖 AI Enthusiast
 
